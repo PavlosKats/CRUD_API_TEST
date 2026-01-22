@@ -1,0 +1,15 @@
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# OS-specific files
+.DS_Store
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
